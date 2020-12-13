@@ -1,0 +1,4 @@
+KNM exponential(1/6.24);
+RA 0.5 + exponential(1/17.2);
+ZA exponential(1/4.35);
+CA exponential(1/8.5);
